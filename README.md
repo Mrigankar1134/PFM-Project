@@ -113,4 +113,3 @@ For questions or suggestions, contact:
 - **Prakhya Singh**: [prakhyas@iimamritsar.ac.in](mailto:prakhyas@iimamritsar.ac.in)
 - **Prateek Guha**: [prateekg@iimamritsar.ac.in](mailto:prateekg@iimamritsar.ac.in)
 
-![image](https://github.com/user-attachments/assets/c6cb0e35-4d5f-4582-a406-0b242ef951fe)
