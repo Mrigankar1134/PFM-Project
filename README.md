@@ -108,8 +108,8 @@ Contributions are welcome! To contribute:
 ## Contact
 
 For questions or suggestions, contact:
-- **Mrigankar Sonowal**: [mrigankars@iimamritsar.ac.in](mailto:mrigankars@iimamritsar.ac.in)
-- **Nilesh Vasava**: [nileshv@iimamritsar.ac.in](mailto:nileshv@iimamritsar.ac.in)
-- **Prakhya Singh**: [prakhyas@iimamritsar.ac.in](mailto:prakhyas@iimamritsar.ac.in)
-- **Prateek Guha**: [prateekg@iimamritsar.ac.in](mailto:prateekg@iimamritsar.ac.in)
+- **Mrigankar Sonowal**: [mrigankars.mbaba04@iimamritsar.ac.in](mailto:mrigankars.mbaba04@iimamritsar.ac.in)
+- **Nilesh Vasava**: [nileshv.mbaba04@iimamritsar.ac.in](mailto:nileshv.mbaba04@iimamritsar.ac.in)
+- **Prakhya Singh**: [prakhyas.mbaba04@iimamritsar.ac.in](mailto:prakhyas.mbaba04@iimamritsar.ac.in)
+- **Prateek Guha**: [prateekg.mbaba04@iimamritsar.ac.in](mailto:prateekg.mbaba04@iimamritsar.ac.in)
 
